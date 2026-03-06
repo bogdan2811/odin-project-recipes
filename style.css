@@ -1,0 +1,26 @@
+* {
+    background-color: bisque;
+}
+
+.title {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 1000;
+    font-size: xx-large;
+}
+
+ul {
+    text-align: center;
+    margin: 100px auto;
+}
+
+li {
+    display: inline-block;
+    margin: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    padding: 50px;
+    border-style: solid;
+    border-color: chartreuse;
+    border-width: 5px;
+}
